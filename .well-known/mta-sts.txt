@@ -1,7 +1,7 @@
 version: STSv1
 mode: enforce
-policy_id: 1754529491
+max_age: 604800
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
 mx: mail.tutanota.de
-max_age: 604800
+policy_id: 1754529491
