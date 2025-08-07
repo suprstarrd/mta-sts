@@ -4,4 +4,3 @@ max_age: 604800
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
 mx: mail.tutanota.de
-policy_id: 1754529491
